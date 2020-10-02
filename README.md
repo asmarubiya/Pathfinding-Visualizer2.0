@@ -32,12 +32,12 @@ A dynamic Pathfinding Visualizer that demonstrates how various algorithms naviga
 
 ## Installation
 
-- Install Node on your computer
-- Clone this repository and the backend repository from <a href="https://github.com/arnabuchiha/Algorithm-Visualizer.git">here</a>.
+- Install Node on your computer.
+- Clone this repository and the backend repository from [here](https://github.com/arnabuchiha/Algorithm-Visualizer.git).
 - Open CMD on your computer and change the directory to the place where you cloned the front-end repository.
 - Run the command **npm install** to install all the necessary packages.
 - Run the command **npm start** to run the app on your localhost.
-- Run the app live on **localhost:3000**
+- Run the app live on **localhost:3000**.
 
 <p align="center">
 Show some love ❤️ and Star ⭐️ the Repository to support the project.
