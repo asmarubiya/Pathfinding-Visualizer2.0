@@ -1,0 +1,20 @@
+.dashed {
+    stroke: #505050;
+    stroke-width: 0.25px;
+    stroke-dasharray: 5;
+  }
+  
+  .block {
+    opacity: 1;
+    fill: #8397e8;
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-width: 5;
+  }
+  
+  .labels {
+    font-size: 32px;
+    font-style: normal;
+    font-family: Bitstream Vera Sans;
+  }
+  
