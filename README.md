@@ -4,6 +4,8 @@
     <img src="./src/assets/heading_logo.png" alt="Algo Visualizer" title="Algorithm Visualizer" align="left" height="70" />
 </a>
 <br/><br/>
+<br/><br/>
+<br/><br/>
 
 Explore the **Pathfinding Visualizer** — a dynamic tool that showcases how various algorithms navigate a grid-based map to find the shortest path. Enjoy real-time animations and tweak settings to observe how different algorithms handle obstacles and paths.
 
@@ -30,18 +32,6 @@ Explore the **Pathfinding Visualizer** — a dynamic tool that showcases how var
     <br/><br/>
     <img src="./screenshots/convex_instruct.gif" alt="Convex Hull Algorithms"/>
 
-## Installation
-
-1. Install [Node.js](https://nodejs.org/) on your computer.
-2. Clone this repository and the backend repository from [here](https://github.com/arnabuchiha/Algorithm-Visualizer.git).
-3. Open a terminal and navigate to the directory where you cloned the front-end repository.
-4. Run `npm install` to install all necessary packages.
-5. Start the application with `npm start`.
-6. Access the app live at [localhost:3000](http://localhost:3000).
-
-<p align="center">
-Show some ❤️ and ⭐️ the repository to support the project!
-</p>
 
 ## Installation
 
