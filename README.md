@@ -1,9 +1,8 @@
 # Pathfinding-Visualizer2.0
 
 <a href="https://algorithm-visualizer.vercel.app/">
-    <img src="./src/assets/heading_logo.png" alt="Algo Visualizer" title="Algorithm Visualizer" align="left" height="70" />
+    <img src="./src/assets/heading_logo.png" alt="Algo Visualizer" title="Algorithm Visualizer" align="center" height="70" />
 </a>
-<br/><br/>
 <br/><br/>
 <br/><br/>
 
