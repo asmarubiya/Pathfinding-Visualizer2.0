@@ -5,39 +5,81 @@
 </a>
 <br/><br/>
 
-A dynamic Pathfinding Visualizer that demonstrates how various algorithms navigate a grid-based map to find the shortest path. Explore real-time animations and adjust settings to see how different algorithms handle obstacles and paths.
+Explore the **Pathfinding Visualizer** — a dynamic tool that showcases how various algorithms navigate a grid-based map to find the shortest path. Enjoy real-time animations and tweak settings to observe how different algorithms handle obstacles and paths.
 
-![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arnabuchiha/Algorithm-Visualizer/blob/master/LICENSE)
+![Branch master](https://img.shields.io/badge/branch-main-brightgreen.svg?style=flat-square) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/asmarubiya/Pathfinding-Visualizer2.0/blob/main/LICENSE)
 
 ## Algorithms
 
-- ### Sorting
+- **Sorting**
 
   - Selection Sort
   - Merge Sort
   - Quick Sort
     <br/><br/>
-    <img src="./screenshots/sorting.gif"/>
+    <img src="./screenshots/sorting.gif" alt="Sorting Algorithms"/>
 
-- ### Pathfinding
+- **Pathfinding**
 
-  - Dijkstra's algorithm
+  - Dijkstra's Algorithm
     <br/><br/>
-    <img src="./screenshots/pathfinder.gif"/>
+    <img src="./screenshots/pathfinder.gif" alt="Pathfinding Algorithms"/>
 
-- ### ConvexHull
+- **ConvexHull**
   - Graham's Scan
     <br/><br/>
-    <img src="./screenshots/convex_instruct.gif"/>
+    <img src="./screenshots/convex_instruct.gif" alt="Convex Hull Algorithms"/>
 
 ## Installation
 
-- Install Node on your computer.
-- Clone this repository and the backend repository from [here](https://github.com/arnabuchiha/Algorithm-Visualizer.git).
-- Open CMD on your computer and change the directory to the place where you cloned the front-end repository.
-- Run the command **npm install** to install all the necessary packages.
-- Run the command **npm start** to run the app on your localhost.
-- Run the app live on **localhost:3000**.
+1. Install [Node.js](https://nodejs.org/) on your computer.
+2. Clone this repository and the backend repository from [here](https://github.com/arnabuchiha/Algorithm-Visualizer.git).
+3. Open a terminal and navigate to the directory where you cloned the front-end repository.
+4. Run `npm install` to install all necessary packages.
+5. Start the application with `npm start`.
+6. Access the app live at [localhost:3000](http://localhost:3000).
 
 <p align="center">
-Show some love ❤️ and Star ⭐️ the Repository to support the project.
+Show some ❤️ and ⭐️ the repository to support the project!
+</p>
+
+## Installation
+
+1. **Install Node.js**
+
+   - Download and install [Node.js](https://nodejs.org/) (which includes npm) if you haven't already.
+
+2. **Clone the Repository**
+
+   - Clone this repository to your local machine using the following command:
+     ```bash
+     git clone https://github.com/asmarubiya/Pathfinding-Visualizer2.0.git
+     ```
+
+3. **Navigate to the Project Directory**
+
+   - Change directory to the cloned project folder:
+     ```bash
+     cd Pathfinding-Visualizer2.0
+     ```
+
+4. **Install Dependencies**
+
+   - Install all required packages by running:
+     ```bash
+     npm install
+     ```
+
+5. **Start the Application**
+
+   - Launch the application with:
+     ```bash
+     npm start
+     ```
+
+6. **Access the Application**
+   - Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
+
+<p align="center">
+Show some ❤️ and ⭐️ the repository to support the project!
+</p>
