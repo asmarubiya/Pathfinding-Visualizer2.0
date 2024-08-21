@@ -1,6 +1,6 @@
 # Pathfinding-Visualizer2.0
 
-<a href="https://algorithm-visualizer.vercel.app/">
+<a href="https://pathfinding-visualizer-v2.vercel.app/">
     <img src="./src/assets/heading_logo.png" alt="Algo Visualizer" title="Algorithm Visualizer" align="center" height="70" />
 </a>
 <br/><br/>
@@ -67,7 +67,7 @@ Explore the **Pathfinding Visualizer** — a dynamic tool that showcases how var
      ```
 
 6. **Access the Application**
-   - Open your browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
+   - Open your browser and go to [http://localhost:3000](https://pathfinding-visualizer-v2.vercel.app/) to view the application.
 
 <p align="center">
 Show some ❤️ and ⭐️ the repository to support the project!
